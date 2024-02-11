@@ -119,7 +119,7 @@ class Footer extends Component {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/" target="_blank">
+                                        <a href="https://www.instagram.com/ship.sathi/" target="_blank">
                                             <i className="bx bxl-instagram"></i>
                                         </a>
                                     </li>
@@ -129,7 +129,7 @@ class Footer extends Component {
                     </div>
 
                     <div className="copyright-area">
-                        <p>Copyright &copy; {currentYear} Ship Sathi. Designed by <a href="http://envytheme.com/" target="_blank">EnvyTheme</a></p>
+                        <p>Copyright &copy; {currentYear} Ship Sathi.</p>
                     </div>
                 </div>
             </footer>

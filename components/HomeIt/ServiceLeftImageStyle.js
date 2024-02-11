@@ -232,6 +232,7 @@ class ServiceLeftImageStyle extends Component {
                                         style={{ boxShadow: "rgb(0 0 0 / 10%) 0px -10px 30px 0px" }}
                                     >
                                         Prices for Cargo
+
                                     </p>
                                     <div
                                         className="border-radius-12 box-shadow pading-20"
@@ -240,7 +241,8 @@ class ServiceLeftImageStyle extends Component {
                                             borderTopLeftRadius: 0,
                                             boxShadow: "rgb(0 0 0 / 10%) 0px 10px 30px 0px",
                                             minHeight: 200,
-                                            minWidth:650
+                                            maxWidth: "85vw",
+                                            width: 650
                                         }}
                                     >
                                         <div className="priceForm">

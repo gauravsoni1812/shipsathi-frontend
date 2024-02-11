@@ -12,12 +12,13 @@ import CompanyIntroVideo from '../components/DigitalMarketing/CompanyIntroVideo'
 import LetsTalk from '../components/DigitalMarketing/LetsTalk';
 import FooterTwo from '../components/Layouts/FooterTwo';
 import ServicesCard from '../components/DigitalMarketing/ServicesCard';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 
 class IndexDigitalMarketing extends Component {
     render() {
         return (
             <>
-                <NavbarThree />
+                <NavbarTwo />
                 <MainBanner />
                 <Featured />
                 <AboutArea />

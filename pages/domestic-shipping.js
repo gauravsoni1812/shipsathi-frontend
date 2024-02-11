@@ -73,14 +73,12 @@ class Pricing extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <NavbarThree />
 
-                <section class="first-content txt-center">
-                    <div class="container">
-                        <h2>Features</h2>
-                        <p>Fship are leading enablers to Quick Commerce!</p>
-                    </div>
-                </section>
+                <PageTitleArea
+                    pageTitle="Features" 
+                    pageDescription="Shipsathi are leading enablers to Quick Commerce!" 
+                />
 
                 <div className=""  >
                 <style dangerouslySetInnerHTML={{ __html: styles }} />
@@ -90,7 +88,9 @@ class Pricing extends Component {
                             No need to choose one. Offer both prepaid &amp; cash on delivery payment
                             options.
                         </p>
-                        <div className="row pt-5">
+                        <div className="row pt-5" style={{
+                            padding:"0px 100px"
+                        }}>
                             <div className="col-md-8 col-sm-12 pt-5">
                                 <h5>Get early Cash on Delivery Remittance</h5>
                                 <p>
@@ -103,7 +103,7 @@ class Pricing extends Component {
                             </div>
                             <div className="col-md-4 col-sm-12">
                                 <img
-                                    src="assets/images/cod.png"
+                                    src="/images/feature/cod.png"
                                     alt="Cash On Delivery"
                                     title="Cash On Delivery"
                                     className="w-100"
@@ -112,10 +112,12 @@ class Pricing extends Component {
                         </div>
                     </div>
                     <div className="tab-pane" id="pickup">
-                        <div className="row pt-5 pb-5">
+                        <div className="row pt-5 pb-5" style={{
+                            padding:"0px 100px"
+                        }}>
                             <div className="col-md-4 col-sm-12">
                                 <img
-                                    src="assets/images/multiple-pickup-location.png"
+                                    src="/images/feature/multiple-pickup-location.png"
                                     alt="Multiple Pickup Locations"
                                     title="Multiple Pickup Locations"
                                     className="w-100"
@@ -130,7 +132,9 @@ class Pricing extends Component {
                                 </p>
                             </div>
                         </div>
-                        <div className="row pt-5">
+                        <div className="row pt-5" style={{
+                            padding:"0px 100px"
+                        }}>
                             <div className="col-md-4 col-sm-12">
                                 <div className="location-features">
                                     <svg
@@ -167,7 +171,7 @@ class Pricing extends Component {
                             </div>
                             <div className="col-md-4 col-sm-12 pt-5">
                                 <img
-                                    src="assets/images/multiple-pickup-location1.jpg"
+                                    src="/images/feature/multiple-pickup-location1.jpg"
                                     alt="Multiple Pickup Locations"
                                     title="Multiple Pickup Locations"
                                     className="w-100"
@@ -210,7 +214,9 @@ class Pricing extends Component {
                             Ship at maximum coverage in just a few clicks, With extensive coverage of
                             29000+ pincodes.
                         </p>
-                        <div className="row pt-5">
+                        <div className="row pt-5" style={{
+                            padding:"0px 100px"
+                        }}>
                             <div className="col-md-8 col-sm-12">
                                 <h5>Maximum Coverage with 29000+ pincodes.</h5>
                                 <p>
@@ -221,7 +227,7 @@ class Pricing extends Component {
                             </div>
                             <div className="col-md-4 col-sm-12">
                                 <img
-                                    src="assets/images/Serviceable-Pin-Codes.jpg"
+                                    src="/images/feature/Serviceable-Pin-Codes.jpg"
                                     alt="Serviceable Pin Codes"
                                     title="Serviceable Pin Codes"
                                     className="w-100"
@@ -229,7 +235,9 @@ class Pricing extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="tab-pane" id="api-integration">
+                    <div className="tab-pane" id="api-integration" style={{
+                        padding:"0px 100px"
+                    }}>
                         <h3 className="txt-center pt-5">API Integration</h3>
                         <p className="txt-center">
                             API Integration refers to this seamless connectivity. Now stay connected
@@ -256,7 +264,7 @@ class Pricing extends Component {
                             </div>
                             <div className="col-md-4 col-sm-12">
                                 <img
-                                    src="assets/images/Serviceable-Pin-Codes.jpg"
+                                    src="/images/feature/Serviceable-Pin-Codes.jpg"
                                     alt="API Integration"
                                     title="API Integration"
                                     className="w-100"
@@ -303,7 +311,7 @@ class Pricing extends Component {
                             </div>
                             <div className="col-md-4 col-sm-12 pt-5">
                                 <img
-                                    src="assets/images/one-api-many-uses.png"
+                                    src="/images/feature/one-api-many-uses.png"
                                     alt="One API. Many Uses"
                                     title="One API. Many Uses"
                                     className="w-100"
@@ -344,7 +352,9 @@ class Pricing extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="tab-pane" id="notification">
+                    <div className="tab-pane" id="notification"  style={{
+                                padding:"100px 100px"
+                            }}>
                         <div className="row">
                             <div className="col-md-8 col-sm-12 pt-5">
                                 <h3>Email &amp; SMS Notifications</h3>
@@ -361,7 +371,7 @@ class Pricing extends Component {
                             </div>
                             <div className="col-md-4 col-sm-12">
                                 <img
-                                    src="assets/images/Notifications.png"
+                                    src="/images/feature/Notifications.png"
                                     alt="Email & SMS Notifications"
                                     title="Email & SMS Notifications"
                                     className="w-100"

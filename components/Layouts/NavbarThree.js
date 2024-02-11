@@ -75,7 +75,7 @@ class NavbarTwo extends Component {
                                             <ul className="dropdown-menu mega-dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/domestic-shipping" activeClassName="active">
-                                                        <a className="nav-link">domestic shopping </a>
+                                                        <a className="nav-link">Domestic Shipping </a>
                                                     </Link>
                                            
                                                     <Link href="/index-chatbot" activeClassName="active">
@@ -120,12 +120,12 @@ class NavbarTwo extends Component {
                                 </div>
 
                                 <div className="others-options">
-                                    <Link href="/contact">
+                                    <Link href="https://shipsathi-dashboard.vercel.app/signup">
                                         <a className="default-btn mr-3">
                                              Signup 
                                         </a>
                                     </Link>
-                                    <Link href="/login">
+                                    <Link href="https://shipsathi-dashboard.vercel.app/signin">
                                         <a className="default-btn black-btn">
                                             <i className="bx bx-log-in"></i> Log In <span></span>
                                         </a>

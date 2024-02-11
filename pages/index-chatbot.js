@@ -12,12 +12,13 @@ import FaqContent from '../components/Faq/FaqContent';
 import OurLovingClients from '../components/Common/OurLovingClients';
 import FreeTrialArea from '../components/HomeChatbot/FreeTrialArea';
 import Footer from '../components/Layouts/Footer';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 
 class IndexChatbot extends Component {
     render() {
         return (
             <>
-                <Navbar />
+                <NavbarTwo />
                 <MainBanner />
                 <Partner />
                 <ServiceRightImageStyle />

@@ -3,12 +3,13 @@ import NavbarThree from '../components/Layouts/NavbarThree';
 import PageTitleArea from '../components/Common/PageTitleArea';
 import FreeTrialArea from '../components/Common/FreeTrialArea';
 import Footer from '../components/Layouts/Footer';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 
 class PrivacyPolicy extends Component {
     render() {
         return (
             <>
-                <NavbarThree />
+                <NavbarTwo />
 
                 <PageTitleArea
                     pageTitle="Privacy Policy"

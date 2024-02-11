@@ -14,12 +14,13 @@ import BlogPostStyleTwo from '../../components/Common/BlogPostStyleTwo';
 import SubscribeStyleTwo from '../../components/Common/SubscribeStyleTwo';
 import OurLovingClients from '../../components/Common/OurLovingClients';
 import Footer from '../../components/Layouts/Footer';
+import NavbarTwo from '../../components/Layouts/NavbarThree';
 
 class Index2 extends Component {
     render() {
         return (
             <>
-                <Navbar />
+                <NavbarTwo />
                 <MainBanner />
                 <FeaturedService />
                 <ServiceRightImageStyle />

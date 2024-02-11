@@ -6,12 +6,13 @@ import ClientsFeedbackSlider from '../components/Common/ClientsFeedbackSlider';
 import SubscribeStyleTwo from '../components/Common/SubscribeStyleTwo';
 import FreeTrialArea from '../components/Common/FreeTrialArea';
 import Footer from '../components/Layouts/Footer';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 
 class Features extends Component {
     render() {
         return (
             <>
-                <NavbarThree />
+                <NavbarTwo />
 
                 <PageTitleArea 
                     pageTitle="Features" 

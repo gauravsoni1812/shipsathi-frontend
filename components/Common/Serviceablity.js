@@ -242,7 +242,7 @@ class Serviceablity extends Component {
                                             borderTopLeftRadius: 0,
                                             boxShadow: "rgb(0 0 0 / 10%) 0px 10px 30px 0px",
                                             minHeight: 200,
-                                            minWidth:650
+                                            minWidth:"46vw"
                                         }}
                                     >
                                         <div className="priceForm">

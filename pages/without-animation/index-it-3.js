@@ -14,12 +14,13 @@ import BlogPostStyleOne from '../../components/Common/BlogPostStyleOne';
 import SubscribeStyleTwo from '../../components/Common/SubscribeStyleTwo';
 import FreeTrialArea from '../../components/Common/FreeTrialArea';
 import Footer from '../../components/Layouts/Footer';
+import NavbarTwo from '../../components/Layouts/NavbarThree';
 
 class Index3 extends Component {
     render() {
         return (
             <>
-                <Navbar />
+                <NavbarTwo />
                 <MainBanner />
                 <FeaturedService />
                 <ServiceRightImageStyle />
