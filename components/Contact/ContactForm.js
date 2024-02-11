@@ -31,17 +31,20 @@ const ContactForm = () => {
     const handleChange = e => {
         const { name, value } = e.target;
         setContact(prevState => ({ ...prevState, [name]: value }));
-        // console.log(contact)
+        console.log(contact)
     }
 
     const handleSubmit = async e => {
         e.preventDefault();
         try {
-            const url = `${baseUrl}/api/contact`;
+            console.log("CALLING API")
             const { name, email, number, subject, text } = contact;
-            const payload = { name, email, number, subject, text };
-            const response = await axios.post(url, payload);
-            console.log(response);
+            const res = await fetch("/api/contact", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ name, email, number, subject, text }),
+              });
+            console.log(res)
             setContact(INITIAL_STATE);
             alertContent();
         } catch (error) {

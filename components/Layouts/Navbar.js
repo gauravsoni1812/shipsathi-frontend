@@ -44,7 +44,7 @@ class Navbar extends Component {
                                 <Link href="/">
                                     <a className="navbar-brand">
                                         <img src="/images/logo-cropped.svg" className="hidden md:block" alt="logo" style={{
-                                            height:"100px", width:"150px"
+                                            height:"50px", width:"150px"
                                         }} />
                                     </a>
                                 </Link>
@@ -103,43 +103,7 @@ class Navbar extends Component {
                                             </ul>
                                         </li>
 
-                                        <li className="nav-item">
-                                            <Link href="#">
-                                                <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Features <i className='bx bx-chevron-down'></i>
-                                                </a>
-                                            </Link>
-
-                                            <ul className="dropdown-menu mega-dropdown-menu">
-                                                <li className="nav-item">
-                                                    <Link href="/index-it-2" activeClassName="active">
-                                                        <a className="nav-link">domestic shopping </a>
-                                                    </Link>
-
-                                                    <Link href="/index-it-3" activeClassName="active">
-                                                        <a className="nav-link">Next day/2day delivery</a>
-                                                    </Link>
-
-                                                    <Link href="/index-saas" activeClassName="active">
-                                                        <a className="nav-link">Photoship</a>
-                                                    </Link>
-
-                                                    <Link href="/index-chatbot" activeClassName="active">
-                                                        <a className="nav-link">B2B and Bulk Shipping</a>
-                                                    </Link>
-
-                                                    <Link href="/index-chatbot-2" activeClassName="active">
-                                                        <a className="nav-link">Fship fullfillment</a>
-                                                    </Link>
-
-                                                    <Link href="/index-chatbot-3" activeClassName="active">
-                                                        <a className="nav-link">Tracking</a>
-                                                    </Link>
-                                                </li>
-
-                                            
-                                            </ul>
-                                        </li>
+                                    
 
 
                                

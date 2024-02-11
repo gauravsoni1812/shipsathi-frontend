@@ -15,43 +15,43 @@ class ServiceRightImageStyle extends Component {
                                 </div>
 
                                 <h2>Why Shipsathi?</h2>
-                                <p>As a delivery and logistics aggregator in India, we want to make e-commerce shipping and cargo shipping effortlessly easy for our customers.</p>
+                                <p>As a delivery and logistics aggregator in India, we make e-commerce shipping and cargo shipping effortlessly easy for our customers.</p>
 
                                 <div className="row">
                                     <div className="col-sm-6">
                                         <div className="feature-box">
                                             <i className='bx bxs-badge-check'></i>  
-                                            Responsive Design
+                                            Prepaid/toPay/COD
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="feature-box">
                                             <i className='bx bxs-badge-check'></i> 
-                                            UI / UX Design
+                                            Door to Door Delivery
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="feature-box">
                                             <i className='bx bxs-badge-check'></i> 
-                                            Mobile App Development
+                                            Part Truck Load Facility
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="feature-box">
                                             <i className='bx bxs-badge-check'></i> 
-                                            Laravel Web Development
+                                            Appointment Based Delivery
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="feature-box">
                                             <i className='bx bxs-badge-check'></i> 
-                                            React Web Development
+                                            Dedicated Account manager
                                         </div>
                                     </div>
                                     <div className="col-sm-6">
                                         <div className="feature-box">
                                             <i className='bx bxs-badge-check'></i> 
-                                            Angular Web Development
+                                           NDR Management
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +69,7 @@ class ServiceRightImageStyle extends Component {
                         <div className="services-image">
                             <ScrollAnimation animateIn="fadeInRight" delay={50} animateOnce={true}>
                                 <div className="image">
-                                    <img src="/images/services/service1.png" alt="image" />
+                                    <img src="/images/svg/svgviewer-output%20(8).svg" alt="image" />
                                 </div>
                             </ScrollAnimation>
                         </div>

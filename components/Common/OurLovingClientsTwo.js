@@ -4,6 +4,7 @@ import Link from 'next/link';
 class OurLovingClientsTwo extends Component {
     render() {
         return (
+            <>
             <section className="our-loving-clients ptb-100 bg-color-f8fbfa">
                 <div className="container">
                     <div className="section-title">
@@ -13,60 +14,88 @@ class OurLovingClientsTwo extends Component {
                     <div className="clients-logo-list align-items-center">
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client1.png" alt="image" />
+                                <img src="/images/clients/client1.png" alt="image" style={{
+                                    height:"100px",
+                                    width:"100px"
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client2.png" alt="image" />
+                                <img src="/images/clients/client2.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client3.png" alt="image" />
+                                <img src="/images/clients/client3.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }}  />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client4.png" alt="image" />
+                                <img src="/images/clients/client4.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client5.png" alt="image" />
+                                <img src="/images/clients/client5.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client6.png" alt="image" />
+                                <img src="/images/clients/client6.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client7.png" alt="image" />
+                                <img src="/images/clients/client7.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client8.png" alt="image" />
+                                <img src="/images/clients/client8.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
 
                         <div className="single-clients-logo">
                             <a href="#" target="_blank">
-                                <img src="/images/clients/client9.png" alt="image" />
+                                <img src="/images/clients/client9.png" alt="image" style={{
+                                    height:100,
+                                    width:100
+                                }} />
                             </a>
                         </div>
                     </div>
                 </div>
             </section>
+            </>
         );
     }
 }

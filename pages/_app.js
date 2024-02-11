@@ -14,26 +14,13 @@ import GoTop from '../components/Shared/GoTop'
 import "../styles/globals.css"
 export default class MyApp extends App {
 
-    // Preloader
-    state = {
-        loading: true
-    };
-    componentDidMount() {
-        this.timerHandle = setTimeout(() => this.setState({ loading: false }), 2000); 
-    }
-    componentWillUnmount() {
-        if (this.timerHandle) {
-            clearTimeout(this.timerHandle);
-            this.timerHandle = 0;
-        }
-    }
     
     render () {
         const { Component, pageProps } = this.props
         return (
             <>
                 <Head>
-                    <title>Ship Sathi - React Next IT & SaaS Startup Template</title>
+                    <title>Ship Sathi - Logistics Aggregator</title>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                     <meta name="description" content="Ship Sathi - React Next IT & SaaS Startup Template" />
                     <meta name="og:title" property="og:title" content="Ship Sathi - React Next IT & SaaS Startup Template"></meta>
@@ -42,9 +29,6 @@ export default class MyApp extends App {
                 </Head>
 
                 <Component {...pageProps} />
-                
-                {/* Preloader */}
-                <Loader loading={this.state.loading} />
 
                 {/* Go Top Button */}
                 <GoTop scrollStepInPx="100" delayInMs="10.50" />

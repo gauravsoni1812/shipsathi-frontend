@@ -34,14 +34,14 @@ class MainBanner extends Component {
                                     <div className="d-table">
                                         <div className="d-table-cell">
                                             {/* Animate Image */}
-                                            <div className="animate-banner-image">
-                                                <img src="/images/animate-banner-img1.jpg" alt="image" />
-                                            </div>
+                                            {/* <div className="animate-banner-image">
+                                                <img src="/images/svg/svgviewer-output.svg" alt="image" />
+                                            </div> */}
                                         </div>
                                     </div>
                                     
                                     {/* For Small Device */}
-                                    <img src="/images/banner-slider/banner-img1.jpg" className="mbanner-img" alt="image" />
+                                    {/* <img src="/images/banner-slider/banner-img1.jpg" className="mbanner-img" alt="image" /> */}
                                 </div>
                             </div>
                         </div>

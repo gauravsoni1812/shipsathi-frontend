@@ -30,19 +30,25 @@ class MainBanner extends Component {
                             </div>
 
                             <div className="col-lg-5 col-md-12">
-                                <div className="banner-image mbanner-bg-one">
+                                {/* <div className="banner-image mbanner-bg-one">
                                     <div className="d-table">
                                         <div className="d-table-cell">
-                                            {/* Animate Image */}
+                                           
                                             <div className="animate-banner-image">
                                                 <img src="/images/animate-banner-img1.jpg" alt="image" />
                                             </div>
                                         </div>
                                     </div>
                                     
-                                    {/* For Small Device */}
+                                    
                                     <img src="/images/banner-slider/banner-img1.jpg" className="mbanner-img" alt="image" />
-                                </div>
+                                </div> */}
+                            <div className="logo" style={{
+                                height:"71vh",
+                                marginTop:"20vh"
+                            }} >
+                                <img src='/images/svg/svgviewer-output.svg'></img>
+                            </div>
                             </div>
                         </div>
                     </div>

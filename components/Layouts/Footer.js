@@ -74,13 +74,23 @@ class Footer extends Component {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="#">
+                                        <Link href="/community">
                                             <a>Community</a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/contact">
                                             <a>Contact Us</a>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link href="/refund">
+                                            <a>Refund and Canellation Policy</a>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link href="/disclaimer">
+                                            <a>Disclaimer</a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -92,8 +102,8 @@ class Footer extends Component {
                                 <h3>Contact Info</h3>
 
                                 <ul className="footer-contact-info">
-                                    <li>Location: <span>jabalpur engineering college , jabalpur</span></li>
-                                    <li>Email: <span>gauravsoni8800@gmail.com</span></li>
+                                    <li>Location: <span>Jabalpur , MP(India)</span></li>
+                                    <li>Email: <span>info@shipsathi.com</span></li>
                                     <li>Phone: <span>+91-9893357211</span></li>
                                 </ul>
 
