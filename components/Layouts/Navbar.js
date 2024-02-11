@@ -74,29 +74,14 @@ class Navbar extends Component {
 
                                             <ul className="dropdown-menu mega-dropdown-menu">
                                                 <li className="nav-item">
-                                                    <Link href="/index-it-2" activeClassName="active">
+                                                    <Link href="/domestic-shipping" activeClassName="active">
                                                         <a className="nav-link">domestic shopping </a>
                                                     </Link>
-
-                                                    <Link href="/index-it-3" activeClassName="active">
-                                                        <a className="nav-link">Next day/2day delivery</a>
-                                                    </Link>
-
-                                                    <Link href="/index-saas" activeClassName="active">
-                                                        <a className="nav-link">Photoship</a>
-                                                    </Link>
-
+                                           
                                                     <Link href="/index-chatbot" activeClassName="active">
                                                         <a className="nav-link">B2B and Bulk Shipping</a>
                                                     </Link>
-
-                                                    <Link href="/index-chatbot-2" activeClassName="active">
-                                                        <a className="nav-link">Fship fullfillment</a>
-                                                    </Link>
-
-                                                    <Link href="/index-chatbot-3" activeClassName="active">
-                                                        <a className="nav-link">Tracking</a>
-                                                    </Link>
+                                                
                                                 </li>
 
                                             

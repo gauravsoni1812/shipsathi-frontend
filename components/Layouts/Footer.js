@@ -30,11 +30,6 @@ class Footer extends Component {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/services">
-                                            <a>Services</a>
-                                        </Link>
-                                    </li>
-                                    <li>
                                         <Link href="/features">
                                             <a>Features</a>
                                         </Link>

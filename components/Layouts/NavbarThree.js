@@ -41,9 +41,11 @@ class NavbarTwo extends Component {
                     <div className="main-nav">
                         <div className="container">
                             <nav className="navbar navbar-expand-md navbar-light">
-                                <Link href="/">
+                            <Link href="/">
                                     <a className="navbar-brand">
-                                        <img src="/images/logo.svg" alt="logo" />
+                                        <img src="/images/logo-cropped.svg" className="hidden md:block" alt="logo" style={{
+                                            height:"50px", width:"150px"
+                                        }} />
                                     </a>
                                 </Link>
 
@@ -66,96 +68,26 @@ class NavbarTwo extends Component {
                                         <li className="nav-item">
                                             <Link href="#">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Home <i className='bx bx-chevron-down'></i>
+                                                    Products <i className='bx bx-chevron-down'></i>
                                                 </a>
                                             </Link>
 
                                             <ul className="dropdown-menu mega-dropdown-menu">
                                                 <li className="nav-item">
-                                                    <h3>With Animation</h3>
-
-                                                    <Link href="/" activeClassName="active">
-                                                        <a className="nav-link">Home One (IT Startup)</a>
+                                                    <Link href="/domestic-shipping" activeClassName="active">
+                                                        <a className="nav-link">domestic shopping </a>
                                                     </Link>
-
-                                                    <Link href="/index-it-2" activeClassName="active">
-                                                        <a className="nav-link">Home Two (IT Startup)</a>
-                                                    </Link>
-
-                                                    <Link href="/index-it-3" activeClassName="active">
-                                                        <a className="nav-link">Home Three (IT Startup)</a>
-                                                    </Link>
-
-                                                    <Link href="/index-saas" activeClassName="active">
-                                                        <a className="nav-link">Home Four (SaaS Startup)</a>
-                                                    </Link>
-
+                                           
                                                     <Link href="/index-chatbot" activeClassName="active">
-                                                        <a className="nav-link">Home Five (Chatbot)</a>
+                                                        <a className="nav-link">B2B and Bulk Shipping</a>
                                                     </Link>
-
-                                                    <Link href="/index-chatbot-2" activeClassName="active">
-                                                        <a className="nav-link">Home Six (Chatbot)</a>
-                                                    </Link>
-
-                                                    <Link href="/index-chatbot-3" activeClassName="active">
-                                                        <a className="nav-link">Home Seven (Chatbot)</a>
-                                                    </Link>
-
-                                                    <Link href="/index-digital-marketing" activeClassName="active">
-                                                        <a className="nav-link">
-                                                            Home Eight (Digital Marketing)
-                                                            <span className="new">New</span>
-                                                        </a>
-                                                    </Link>
+                                                
                                                 </li>
 
-                                                <li className="nav-item">
-                                                    <h3>Without Animation</h3>
-
-                                                    <Link href="/without-animation" activeClassName="active">
-                                                        <a className="nav-link">Home One (IT Startup)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-it-2" activeClassName="active">
-                                                        <a className="nav-link">Home Two (IT Startup)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-it-3" activeClassName="active">
-                                                        <a className="nav-link">Home Three (IT Startup)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-saas" activeClassName="active">
-                                                        <a className="nav-link">Home Four (SaaS Startup)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-chatbot" activeClassName="active">
-                                                        <a className="nav-link">Home Five (Chatbot)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-chatbot-2" activeClassName="active">
-                                                        <a className="nav-link">Home Six (Chatbot)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-chatbot-3" activeClassName="active">
-                                                        <a className="nav-link">Home Seven (Chatbot)</a>
-                                                    </Link>
-
-                                                    <Link href="/without-animation/index-digital-marketing" activeClassName="active">
-                                                        <a className="nav-link">
-                                                            Home Eight (Digital Marketing)
-                                                            <span className="new">New</span>
-                                                        </a>
-                                                    </Link>
-                                                </li>
+                                            
                                             </ul>
                                         </li>
 
-                                        <li className="nav-item">
-                                            <Link href="/about" activeClassName="active">
-                                                <a className="nav-link">About</a>
-                                            </Link>
-                                        </li>
 
                                         <li className="nav-item">
                                             <Link href="/pricing" activeClassName="active">
@@ -163,124 +95,20 @@ class NavbarTwo extends Component {
                                             </Link>
                                         </li>
 
+
+
                                         <li className="nav-item">
-                                            <Link href="#">
-                                                <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Pages <i className='bx bx-chevron-down'></i>
-                                                </a>
+                                            <Link href="/partners" activeClassName="active">
+                                                <a className="nav-link">Partners</a>
                                             </Link>
-
-                                            <ul className="dropdown-menu">
-                                                <li className="nav-item">
-                                                    <Link href="/services" activeClassName="active">
-                                                        <a className="nav-link">Services</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/services2" activeClassName="active">
-                                                        <a className="nav-link">Services Two</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/services3" activeClassName="active">
-                                                        <a className="nav-link">Services Three</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/service-details" activeClassName="active">
-                                                        <a className="nav-link">Service Details</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="#">
-                                                        <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                            Features <i className='bx bx-chevron-right float-right'></i>
-                                                        </a>
-                                                    </Link>
-
-                                                    <ul className="dropdown-menu">
-                                                        <li className="nav-item">
-                                                            <Link href="/features" activeClassName="active">
-                                                                <a className="nav-link">Features One</a>
-                                                            </Link>
-                                                        </li>
-
-                                                        <li className="nav-item">
-                                                            <Link href="/features2" activeClassName="active">
-                                                                <a className="nav-link">Features Two</a>
-                                                            </Link>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/team" activeClassName="active">
-                                                        <a className="nav-link">Team</a>
-                                                    </Link>
-                                                </li> 
-                                                
-                                                <li className="nav-item">
-                                                    <Link href="/pricing" activeClassName="active">
-                                                        <a className="nav-link">Pricing</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/faq" activeClassName="active">
-                                                        <a className="nav-link">FAQ</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/login" activeClassName="active">
-                                                        <a className="nav-link">Log In</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/signup" activeClassName="active">
-                                                        <a className="nav-link">Sign Up</a>
-                                                    </Link>
-                                                </li>
- 
-                                                <li className="nav-item">
-                                                    <Link href="/404" activeClassName="active">
-                                                        <a className="nav-link">404 Error Page</a>
-                                                    </Link>
-                                                </li>
-                                            </ul>
                                         </li>
+                                      
  
+                                    
                                         <li className="nav-item">
-                                            <Link href="#">
-                                                <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Blog <i className='bx bx-chevron-down'></i>
-                                                </a>
+                                            <Link href="/tracking" activeClassName="active">
+                                                <a className="nav-link">Track Orders</a>
                                             </Link>
-
-                                            <ul className="dropdown-menu">
-                                                <li className="nav-item">
-                                                    <Link href="/blog" activeClassName="active">
-                                                        <a className="nav-link">Blog Grid</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/blog2" activeClassName="active">
-                                                        <a className="nav-link">Blog Right Sidebar</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/blog-details" activeClassName="active">
-                                                        <a className="nav-link">Blog Details</a>
-                                                    </Link>
-                                                </li>
-                                            </ul>
                                         </li>
  
                                         <li className="nav-item">
@@ -294,7 +122,7 @@ class NavbarTwo extends Component {
                                 <div className="others-options">
                                     <Link href="/contact">
                                         <a className="default-btn mr-3">
-                                            <i className="bx bxs-hot"></i> Get Started <span></span>
+                                             Signup 
                                         </a>
                                     </Link>
                                     <Link href="/login">
