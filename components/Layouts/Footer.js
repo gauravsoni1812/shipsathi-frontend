@@ -40,8 +40,13 @@ class Footer extends Component {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/blog">
-                                            <a>Latest News</a>
+                                        <Link href="/contact">
+                                            <a>Contact Us</a>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link href="/faq">
+                                            <a>FAQ's</a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -53,11 +58,7 @@ class Footer extends Component {
                                 <h3>Support</h3>
 
                                 <ul className="support-list">
-                                    <li>
-                                        <Link href="/faq">
-                                            <a>FAQ's</a>
-                                        </Link>
-                                    </li>
+                                   
                                     <li>
                                         <Link href="/privacy-policy">
                                             <a>Privacy Policy</a>
@@ -73,11 +74,7 @@ class Footer extends Component {
                                             <a>Community</a>
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link href="/contact">
-                                            <a>Contact Us</a>
-                                        </Link>
-                                    </li>
+                             
                                     <li>
                                         <Link href="/refund">
                                             <a>Refund and Canellation Policy</a>
@@ -109,12 +106,12 @@ class Footer extends Component {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://twitter.com/" target="_blank">
+                                        <a href="https://twitter.com/ShipSathi" target="_blank">
                                             <i className="bx bxl-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.linkedin.com/" target="_blank">
+                                        <a href="https://www.linkedin.com/in/ship-sathi" target="_blank">
                                             <i className="bx bxl-linkedin"></i>
                                         </a>
                                     </li>

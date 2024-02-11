@@ -25,8 +25,8 @@ class FeaturesContent extends Component {
                             <ScrollAnimation animateIn="fadeInLeft" delay={100} animateOnce={true}>
                                 <div className="features-box-one">
                                     <i className='bx bxs-badge-check bg-6610f2'></i>
-                                    <h3>Choose a carrier partner</h3>
-                                    <p>Shipsathi recommends carrier partners based on your order details, shipment weight, and budget. You can either go with our recommendation or choose your preferred logistics partner based on their rates, SLA performance and user ratings.</p>
+                                    <h3>Choose a courier partner</h3>
+                                    <p>Shipsathi suggests carriers based on your order, weight, and budget. You can follow our recommendation or select your preferred partner based on rates, performance, and ratings.</p>
                                 </div>
                             </ScrollAnimation>
                         </div>

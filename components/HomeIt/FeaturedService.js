@@ -13,9 +13,9 @@ class FeaturedService extends Component {
                                 <div className="single-features-card tx-center">
                                     <i className='bx bx-conversation'></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                       
                                             <a>Affordable rates</a>
-                                        </Link>
+                                     
                                     </h3>
                                     <p>Find the best rates for all your shipments whether you need into B2B or Cargo shipping services.</p>
                                 </div>
@@ -27,11 +27,11 @@ class FeaturedService extends Component {
                                 <div className="single-features-card tx-center">
                                     <i className='bx bx-laptop'></i>
                                     <h3>
-                                        <Link href="/service-details">
-                                            <a>One plateform multiple cariers</a>
-                                        </Link>
+                                       
+                                            <a>Multiple courier</a>
+                                       
                                     </h3>
-                                    <p>Streamline Cargo and B2B logistics with our exhaustive network of carriers. Track all your orders and keep customers informed about the courier movement in real-time.</p>
+                                    <p>Enhance logistics with our carrier network. Track orders, keep customers updated in real-time.</p>
                                 </div>
                             </ScrollAnimation>
                         </div>
@@ -41,9 +41,7 @@ class FeaturedService extends Component {
                                 <div className="single-features-card tx-center">
                                     <i className='bx bxs-badge-check'></i>
                                     <h3>
-                                        <Link href="/service-details">
                                             <a>No Platform Fees</a>
-                                        </Link>
                                     </h3>
                                     <p>You only get easy to understand pricing with us. No hidden fees of any kind and no surprises.</p>
                                 </div>
@@ -59,7 +57,7 @@ class FeaturedService extends Component {
                                             <a>Dedicated Support</a>
                                         </Link>
                                     </h3>
-                                    <p>Our team at Rocketbox is always here to help you and guide you through the way whether you need assistance with pickups, tracking shipments, or clearing any disputes with carriers.</p>
+                                    <p>ShipSathi team is ready to assist with pickups, tracking, and carrier disputes.</p>
                                 </div>
                             </ScrollAnimation>
                         </div>

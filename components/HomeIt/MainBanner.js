@@ -16,7 +16,7 @@ class MainBanner extends Component {
                                                 <h1>Navigate Your Way to Success: Fastest Shipping Solution in India</h1>
                                                 <p>Charting a course for success in the bustling Indian market? Our shipping solutions are here to steer you in the right direction! With the fastest delivery times and the widest reach across India, ShipSathi is your trusted partner in shipping. Say bon voyage to slow delivery and bonjour to the quickest shipping experience available. Let's set sail for success together!</p>
 
-                                                <Link href="/contact">
+                                                <Link href="https://shipsathi-dashboard.vercel.app/signup">
                                                     <a className="default-btn">
                                                         {/* <i className="bx bxs-hot"></i>  */}
                                                         Get Started for free

@@ -44,7 +44,7 @@ class NavbarTwo extends Component {
                             <Link href="/">
                                     <a className="navbar-brand">
                                         <img src="/images/logo-cropped.svg" className="hidden md:block" alt="logo" style={{
-                                            height:"50px", width:"150px"
+                                            width:"250px"
                                         }} />
                                     </a>
                                 </Link>
@@ -75,12 +75,12 @@ class NavbarTwo extends Component {
                                             <ul className="dropdown-menu mega-dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/domestic-shipping" activeClassName="active">
-                                                        <a className="nav-link">Domestic Shipping </a>
+                                                        <a className="nav-link">B2B and Bulk Shipping </a>
                                                     </Link>
                                            
-                                                    <Link href="/index-chatbot" activeClassName="active">
-                                                        <a className="nav-link">B2B and Bulk Shipping</a>
-                                                    </Link>
+                                                    {/* <Link href="/index-chatbot" activeClassName="active">
+                                                        <a className="nav-link">Domestic Shipping</a>
+                                                    </Link> */}
                                                 
                                                 </li>
 
@@ -122,7 +122,7 @@ class NavbarTwo extends Component {
                                 <div className="others-options">
                                     <Link href="https://shipsathi-dashboard.vercel.app/signup">
                                         <a className="default-btn mr-3">
-                                             Signup 
+                                        <i className="bx bx-log-in"></i> Sign Up <span></span> 
                                         </a>
                                     </Link>
                                     <Link href="https://shipsathi-dashboard.vercel.app/signin">

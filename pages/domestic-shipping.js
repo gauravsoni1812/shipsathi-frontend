@@ -381,7 +381,7 @@ class Pricing extends Component {
                     </div>
                 </div>
 
-
+               <Footer />
 
             </>
         );
