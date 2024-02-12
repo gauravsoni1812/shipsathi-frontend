@@ -100,11 +100,12 @@ class OurLovingClients extends Component {
                         
                         <SimpleImageSlider
                             autoPlay={true}
-                            width={330}
-                            height={330}
+                            width={350}
+                            height={175}
                             images={images}
                             showBullets={true}
                             showNavs={true}
+                            navSize={0}
                             slideDuration={1}
                         />
                     </div> }
@@ -170,12 +171,13 @@ class OurLovingClients extends Component {
                         
                         <SimpleImageSlider
                             autoPlay={true}
-                            width={330}
-                            height={330}
+                            width={350}
+                            height={175}
                             images={imagecontent}
                             showBullets={true}
                             showNavs={true}
                             slideDuration={1}
+                            navSize={0}
                         />
                     </div> }
                     

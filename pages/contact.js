@@ -18,9 +18,7 @@ class Contact extends Component {
                 />  
 
                 <ContactFormArea />
-
-                <OurLovingClients />
-
+ 
                 <Footer />
             </>
         );

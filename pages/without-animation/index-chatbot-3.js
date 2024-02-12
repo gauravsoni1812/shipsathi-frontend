@@ -31,7 +31,7 @@ class IndexChatbot3 extends Component {
                 <PricingStyleThree />
                 <TeamStyleOne />
                 <DownloadApp />
-                <BlogPostStyleOne />
+                {/* <BlogPostStyleOne /> */}
                 <SubscribeStyleTwo />
                 <FreeTrialArea />
                 <Footer />

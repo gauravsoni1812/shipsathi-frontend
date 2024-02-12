@@ -54,7 +54,9 @@ const ContactForm = () => {
 
     return (
         <div className="contact-form">
-            <h3>Let's Start Your Free Trial</h3>
+            <h3 style={{
+                fontSize:"40px"
+            }}>Connect with us</h3>
 
             <form onSubmit={handleSubmit}>
                 <div className="row">
@@ -125,7 +127,7 @@ const ContactForm = () => {
                         </div>
                     </div>
                     <div className="col-lg-12 col-sm-12 text-center">
-                        <button type="submit" className="default-btn">
+                        <button type="submit" className="default-btn black-btn">
                             <i className='bx bxs-paper-plane'></i> 
                             Send Message <span></span>
                         </button>

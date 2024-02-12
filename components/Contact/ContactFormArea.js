@@ -8,8 +8,11 @@ class ContactFormArea extends Component {
             <section className="contact-area ptb-100">
                 <div className="container">
                     <div className="contact-inner">
-                        <div className="row">
-                            <div className="col-lg-6 col-md-12">
+                        <div className="row" style={{
+                            // maxWidth:"600px",
+                            // transform:"translateX(55%)"
+                        }}>
+                            {/* <div className="col-lg-6 col-md-12">
                                 <div className="contact-features-list">
                                     <h3>Some other great reasons to choose us</h3>
                                     <p>Take the first steps towards increased productivity and reduced stress with Ship Sathi.</p>
@@ -34,12 +37,12 @@ class ContactFormArea extends Component {
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-6 col-md-12">
+                            {/* <div className="col-lg-6 col-md-12"> */}
                                 {/* Contact Form */}
                                 <ContactForm />
-                            </div>
+                            {/* </div> */}
                         </div>
 
                         {/* Contact Info */}

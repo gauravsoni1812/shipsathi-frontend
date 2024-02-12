@@ -31,7 +31,7 @@ class IndexChatbot2 extends Component {
                 <PricingStyleTwo />
                 <TeamStyleTwo />
                 <FaqContentTwo />
-                <BlogPostStyleOne />
+                {/* <BlogPostStyleOne /> */}
                 <SubscribeStyleTwo />
                 <FreeTrialArea />
                 <Footer />

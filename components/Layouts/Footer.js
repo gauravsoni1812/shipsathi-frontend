@@ -11,8 +11,10 @@ class Footer extends Component {
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-footer-widget">
                                 <div className="logo">
-                                    <a href="/">
-                                        <img src="/images/white-logo.png" alt="image" />
+                                    <a className="navbar-brand">
+                                        <img src="/images/NEWLOGO.svg" className="hidden md:block" alt="logo" style={{
+                                            width: "250px"
+                                        }} />
                                     </a>
                                 </div>
                                 <p>Introducing ShipSaath , an Indian logistics aggregator dedicated to supporting SMEs in optimizing their shipping expenditure. Through our exclusive compare & book feature and leveraging bulk pricing benefits, you can slash your shipping costs by up to 40%. Trust in our partnerships with leading carriers such as Delhivery, Spoton, and Xpressbees for reliable and efficient product deliveries.</p>
@@ -58,7 +60,7 @@ class Footer extends Component {
                                 <h3>Support</h3>
 
                                 <ul className="support-list">
-                                   
+
                                     <li>
                                         <Link href="/privacy-policy">
                                             <a>Privacy Policy</a>
@@ -74,7 +76,7 @@ class Footer extends Component {
                                             <a>Community</a>
                                         </Link>
                                     </li>
-                             
+
                                     <li>
                                         <Link href="/refund">
                                             <a>Refund and  Cancellation Policy</a>

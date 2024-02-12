@@ -43,7 +43,7 @@ class NavbarTwo extends Component {
                             <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/">
                                     <a className="navbar-brand">
-                                        <img src="/images/logo-cropped.svg" className="hidden md:block" alt="logo" style={{
+                                        <img src="/images/NEWLOGO1.svg" className="hidden md:block" alt="logo" style={{
                                             width:"250px"
                                         }} />
                                     </a>

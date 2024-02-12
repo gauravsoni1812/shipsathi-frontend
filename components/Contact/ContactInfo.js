@@ -8,9 +8,15 @@ class ContactInfo extends Component {
                     <h3>Contact us by Phone Number or Email Address</h3>
 
                     <h2>
-                        <span className="number">+91-9893357211</span>
+                        <span className="number" style={{
+                            color:"#080A3C",
+                            fontSize:"30px"
+                        }}>+91-9893357211</span>
                         <span className="or">OR</span>
-                        <span className="email">hello@shipsathi.com</span>
+                        <span className="email" style={{
+                             color:"#080A3C",
+                             fontSize:"30px"
+                        }}>hello@shipsathi.com</span>
                     </h2>
 
                     <ul className="social">

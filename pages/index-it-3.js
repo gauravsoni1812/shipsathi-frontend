@@ -31,7 +31,7 @@ class Index3 extends Component {
                 <PricingStyleThree />
                 <OurLovingClientsTwo />
                 <DownloadApp />
-                <BlogPostStyleOne />
+                {/* <BlogPostStyleOne /> */}
                 <SubscribeStyleTwo />
                 <FreeTrialArea />
                 <Footer />

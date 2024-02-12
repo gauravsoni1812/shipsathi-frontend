@@ -8,7 +8,7 @@ class PageTitleArea extends Component {
         return (
             <div className="page-title-area">
                 <div className="container">
-                    <div className="page-title-content">
+                    <div className="page-title-content ">
                         <h2>{pageTitle}</h2>
                         <p>{pageDescription}</p>
                     </div>

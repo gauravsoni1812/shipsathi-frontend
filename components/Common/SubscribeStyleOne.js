@@ -9,7 +9,10 @@ class SubscribeStyleOne extends Component {
                 <form className="newsletter-form">
                     <div className="row align-items-center">
                         <div className="col-lg-8 col-md-8">
-                            <input type="email" className="input-newsletter" placeholder="hello@spacle.com" name="email" required />
+                            <input type="email" className="input-newsletter" style={{
+                                background:"#00D1AB",
+                                border:"1.5px solid white"
+                            }} placeholder="hello@spacle.com" name="email" required />
                         </div>
 
                         <div className="col-lg-4 col-md-4">

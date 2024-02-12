@@ -21,12 +21,12 @@ class FaqContent extends Component {
                                     <AccordionItem uuid="a">
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                What access do I have on the free plan?
+                                            What is Shipsathi, and what does it offer to businesses in the shipping and logistics sector?
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                            Shipsathi is a comprehensive shipping and logistics platform designed to empower businesses. We offer end-to-end solutions, including order management, real-time tracking, and automated shipping processes, to streamline and enhance the efficiency of shipping operations.
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
@@ -34,12 +34,12 @@ class FaqContent extends Component {
                                     <AccordionItem uuid="b">
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                What access do I have on a free trial?
+                                            How does Shipsathi differ from other shipping solutions available in the market?
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                            Shipsathi stands out by [insert unique selling point, such as cutting-edge technology, personalized customer support, or a specific industry focus]. Our commitment is to provide a tailored and innovative approach that addresses the diverse needs of businesses in the shipping and logistics sector.
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
@@ -47,12 +47,12 @@ class FaqContent extends Component {
                                     <AccordionItem uuid="c">
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                Does the price go up as my team gets larger?
+                                            How does Shipsathi support small and medium-sized enterprises (SMEs) in managing their shipping logistics?
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                            Shipsathi recognizes the importance of SMEs and offers scalable and cost-effective solutions. Our platform is designed to empower SMEs by providing them with the tools and resources needed to navigate shipping challenges seamlessly, allowing them to focus on business growth.
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
@@ -60,12 +60,13 @@ class FaqContent extends Component {
                                     <AccordionItem uuid="d">
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                How can I cancel/pause my subscription?
+                                            How long LTL delivery takes?
+
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                            The time to deliver the parcel completely depends on the distance between the origin and destination. However, LTL transportation is considered as grouped shipping service. But it has fewer stops while shipping the products because the shipment is aligned in the truck for the same route. To know the exact time of delivery, use our panel. Select the origin og your shipment and designation. Our tracking system will automatically calculate the estimated time, and the details will appear on your screen.
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
