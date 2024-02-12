@@ -97,7 +97,7 @@ class Pricing extends Component {
                                     Improve your cash flow. Scale your business faster with early COD
                                     remittance.
                                 </p>
-                                <a href="https://app.fship.in/register" className="btn btn-primary">
+                                <a href="#" className="btn btn-primary">
                                     Know More
                                 </a>
                             </div>
@@ -258,9 +258,7 @@ class Pricing extends Component {
                                     instance, like Gracious aggregates data from various Couriers by
                                     calling their APIs and push to your API system.
                                 </p>
-                                <a href="https://app.fship.in/register" className="btn btn-primary">
-                                    API Docs
-                                </a>
+                             
                             </div>
                             <div className="col-md-4 col-sm-12">
                                 <img
@@ -277,7 +275,10 @@ class Pricing extends Component {
                         </p>
                         <div className="row pt-5">
                             <div className="col-md-4 col-sm-12">
-                                <div className="location-features">
+                                <div className="location-features" style={{
+                                    marginBottom:"20px",
+                                    marginTop:"20px"
+                                }}>
                                     <svg
                                         aria-hidden="true"
                                         className="e-font-icon-svg e-far-chart-bar"
@@ -293,7 +294,10 @@ class Pricing extends Component {
                                         processes.
                                     </p>
                                 </div>
-                                <div className="location-features">
+                                <div className="location-features" style= {{
+                                    marginBottom:"20px",
+                                    marginTop:"20px"
+                                }}>
                                     <svg
                                         aria-hidden="true"
                                         className="e-font-icon-svg e-fas-boxes"
@@ -318,7 +322,10 @@ class Pricing extends Component {
                                 />
                             </div>
                             <div className="col-md-4 col-sm-12">
-                                <div className="location-features">
+                                <div className="location-features" style= {{
+                                    marginBottom:"20px",
+                                    marginTop:"20px"
+                                }} >
                                     <svg
                                         aria-hidden="true"
                                         className="e-font-icon-svg e-far-sun"
@@ -333,7 +340,10 @@ class Pricing extends Component {
                                         from the start.
                                     </p>
                                 </div>
-                                <div className="location-features">
+                                <div className="location-features" style= {{
+                                    marginBottom:"20px",
+                                    marginTop:"20px"
+                                }}>
                                     <svg
                                         aria-hidden="true"
                                         className="e-font-icon-svg e-fas-shipping-fast"

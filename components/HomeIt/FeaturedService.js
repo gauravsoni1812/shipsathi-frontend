@@ -57,7 +57,7 @@ class FeaturedService extends Component {
                                             <a>Dedicated Support</a>
                                         </Link>
                                     </h3>
-                                    <p>ShipSathi team is ready to assist with pickups, tracking, and carrier disputes.</p>
+                                    <p>ShipSathi team is ready to assist with pickups, tracking, and carrier disputes anytime.</p>
                                 </div>
                             </ScrollAnimation>
                         </div>

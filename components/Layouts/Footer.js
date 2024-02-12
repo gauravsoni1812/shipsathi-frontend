@@ -77,7 +77,7 @@ class Footer extends Component {
                              
                                     <li>
                                         <Link href="/refund">
-                                            <a>Refund and Canellation Policy</a>
+                                            <a>Refund and  Cancellation Policy</a>
                                         </Link>
                                     </li>
                                     <li>
