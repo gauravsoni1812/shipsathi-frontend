@@ -63,7 +63,7 @@ class Community extends Component {
                             KYC approval and rejection depends on the uploaded documents. Anytime if a
                             seller wants to change his Business from Prepaid order to COD order, the
                             required documents can be shared beforehand at-{" "}
-                            <a href="mailto:finance@bigship.in">finance@bigship.in</a> and the approval
+                            <a href="mailto:finance@shipsathi.in">finance@shipsathi.in</a> and the approval
                             process can begin again.{" "}
                         </p>
                         <p>
@@ -76,7 +76,7 @@ class Community extends Component {
                             However, they can always contact the Sales PoC (Point of Contact) for
                             assistance. The sales POC can guide them through the process and help them
                             complete their KYC successfully. Or seller can mail at-{" "}
-                            <a href="mailto:client.service@bigship.in">client.service@bigship.in</a>{" "}
+                            <a href="mailto:client.service@shipsathi.in">client.service@shipsathi.in</a>{" "}
                         </p>
                         <h4>COD Remittance</h4>
                         <ul className="list-style-3">
@@ -106,7 +106,7 @@ class Community extends Component {
                             </li>
                             <li>
                                 If seller wants to get his remittance held due to any reason; he should
-                                inform the finance department priory by mailing at finance@bigship.in
+                                inform the finance department priory by mailing at finance@shipsathi.in
                             </li>
                             <li>
                                 Seller is required to fill correct bank details in the system; Bigship
@@ -156,7 +156,7 @@ class Community extends Component {
                             </li>
                             <li>
                                 Seller can request for deactivation of the Early Cod plan via mail on
-                                finance@bigship.in the plan will be deactivated within 24-48hrs of
+                                finance@shipsathi.in the plan will be deactivated within 24-48hrs of
                                 request; mean while the shipments delivered in that duration will be
                                 charged in early cod.
                             </li>
@@ -209,7 +209,7 @@ class Community extends Component {
                                 details in the invoice of the shipment.
                             </em>
                         </p>
-                        <h4>BigShip’s Packaging SOP’s</h4>
+                        <h4>Shipsathi’s Packaging SOP’s</h4>
                         <div className="row">
                             <div className="col-md-6 col-sm-12">
                                 <h5>Liquid Items</h5>
@@ -237,7 +237,7 @@ class Community extends Component {
                                 <div>
                                     <img
                                         src="images/Bigship-Packaging.png"
-                                        alt="BigShip Courier SOP's"
+                                        alt="Shipsathi Courier SOP's"
                                         className="img-fluid"
                                     />
                                 </div>
@@ -303,7 +303,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/packing-box-metrial.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -319,7 +319,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-01-1.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -334,7 +334,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-02.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -344,7 +344,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-03.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -357,7 +357,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-04.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -369,7 +369,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-05.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -381,7 +381,7 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-06.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -394,15 +394,15 @@ class Community extends Component {
                         <div className="text-center">
                             <img
                                 src="images/sop-images-07.jpg"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
-                        <h4>BigShip’s Internal Packing Material</h4>
+                        <h4>Shipsathi’s Internal Packing Material</h4>
                         <div>
                             <img
                                 src="images/Packing-Material-chat.png"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -414,7 +414,7 @@ class Community extends Component {
                             shipment facility. All packages must have AWB number label sticked on them
                             properly. No claims for loss or damage will be entertained in such a case.
                         </p>
-                        <h4>BigShip’s Special Handling Labels</h4>
+                        <h4>Shipsathi’s Special Handling Labels</h4>
                         <p>
                             Special handling labels helps in communicating the necessary information for
                             appropriately handling the Shipment.
@@ -434,7 +434,7 @@ class Community extends Component {
                                 <div>
                                     <img
                                         src="images/Common-Categories.png"
-                                        alt="BigShip Courier SOP's"
+                                        alt="Shipsathi Courier SOP's"
                                         className="img-fluid"
                                     />
                                 </div>
@@ -482,7 +482,7 @@ class Community extends Component {
                         <div>
                             <img
                                 src="images/Quick-Check.png"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -724,7 +724,7 @@ class Community extends Component {
                         <div>
                             <img
                                 src="images/courier-sop-tag.png"
-                                alt="BigShip Courier SOP's"
+                                alt="Shipsathi Courier SOP's"
                                 className="img-fluid"
                             />
                         </div>
@@ -1352,9 +1352,9 @@ class Community extends Component {
                         <p>
                             Please share all the above information with our finance team along with the
                             AWB numbers on the mail id at{" "}
-                            <a href="mailto:escalation.desk@bigship.in">escalation.desk@bigship.in</a>{" "}
+                            <a href="mailto:escalation.desk@shipsathi.in">escalation.desk@shipsathi.in</a>{" "}
                             keeping{" "}
-                            <a href="mailto:client.service@bigship.in">client.service@bigship.in</a> in
+                            <a href="mailto:client.service@shipsathi.in">client.service@shipsathi.in</a> in
                             cc. We will send the information to counter the weight of the courier and
                             assist you resolve the cases in your favour. In the case of a tampered or
                             false proof, the weight given by the courier will be charged.
@@ -1693,7 +1693,7 @@ class Community extends Component {
                             <li>
                                 Courier Partner reserves the right to re-weigh or re-measure any shipment
                                 to confirm the calculation and chargeable weight until it is billed to
-                                BigShip.
+                                Shipsathi.
                             </li>
                         </ul>
                         <h3>Guidelines for Labelling and Packaging</h3>

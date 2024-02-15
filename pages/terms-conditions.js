@@ -24,7 +24,7 @@ class TermsConditions extends Component {
                                             By accessing or using the Website or by using the Service on the
                                             Website you agree to be bound by the Terms and Conditions set forth
                                             below including any additional guidelines and future modifications.
-                                            BigShip may add to, change or remove any part of these Terms and
+                                            Shipsathi may add to, change or remove any part of these Terms and
                                             Conditions of Use at any time, without notice. Any changes to these
                                             Terms and Conditions of Use or any terms published on this Website
                                             apply as soon as they are released.
@@ -35,7 +35,7 @@ class TermsConditions extends Component {
                                             any other official ID issued by statutory body, Address, Email ID,
                                             Contact Number, mobile, direct landline, and will be solely
                                             responsible for the Information provided and in case of any error or
-                                            mistake in provision of information, BigShip will not be liable for
+                                            mistake in provision of information, Shipsathi will not be liable for
                                             the same.
                                         </p>
                                         <p>
@@ -43,7 +43,7 @@ class TermsConditions extends Component {
                                             you or for another person for whom you are authorized to act, and
                                             will inform such other persons about the Terms of Use that apply to
                                             the transaction you have made on their behalf, including all rules
-                                            and restrictions applicable. You indemnify BigShip against any
+                                            and restrictions applicable. You indemnify Shipsathi against any
                                             illegal purchases made by you or any other person either legally
                                             authorized or on account of your negligence.
                                         </p>
@@ -58,13 +58,13 @@ class TermsConditions extends Component {
                                             misuse of your User Account by you and any other person.
                                         </p>
                                         <p>
-                                            BigShip have the right in its sole discretion to deny access to
+                                            Shipsathi have the right in its sole discretion to deny access to
                                             anyone to this Website and the services we offer, at any time
                                             without notice and for any reason, including, but not limited to,
                                             for violation of these Terms of Use.
                                         </p>
                                         <p>
-                                            This Website and some other Website relating to BigShip, its
+                                            This Website and some other Website relating to Shipsathi, its
                                             partners, subsidiaries, Service Providers, and so on are just for
                                             your own and non – business utilizes. It is entirely denied to You
                                             and of your partners and off shoots straight forwardly or by
@@ -86,7 +86,7 @@ class TermsConditions extends Component {
                                             the reasonability of items being dispatched, bundling prerequisite,
                                             required documentation for Shipments, non-deserting, and so forth
                                             for the source and delivery destination. The Customer recognizes
-                                            that the Service Provider and BigShip{" "}
+                                            that the Service Provider and Shipsathi{" "}
                                         </p>
                                         <p>
                                             acknowledge the Shipment on said to contain premise and just on the
@@ -94,20 +94,20 @@ class TermsConditions extends Component {
                                             Shipping Documents. The substance of the Shipment must be
                                             demonstrated by accurate portrayal in transit charge and other
                                             transportation archives on which the Shipment has been offered.
-                                            BigShip and the Service Provider accept no obligation to any
+                                            Shipsathi and the Service Provider accept no obligation to any
                                             individual for any misfortune or cost because of the Customer's
                                             inability to agree to this arrangement. The Customer additionally
-                                            consents to hold BigShip and the Service Provider safe from and
+                                            consents to hold Shipsathi and the Service Provider safe from and
                                             against all cases, harms, liabilities, activities, misfortunes,
                                             expenses, and costs of any nature at all, emerging out of Customer's
-                                            giving to BigShip or Service Provider inadequate, off base or false
+                                            giving to Shipsathi or Service Provider inadequate, off base or false
                                             documentation or inability to provide the required data. By no means
-                                            should BigShip or the Service Provider be considered in charge of
+                                            should Shipsathi or the Service Provider be considered in charge of
                                             any risk emerging out of the products contained in the Customer's
                                             Shipment.
                                         </p>
                                         <p>
-                                            Assessment: BigShip or the Service Provider or the Shipping Company
+                                            Assessment: Shipsathi or the Service Provider or the Shipping Company
                                             or any administrative expert including traditions and security may
                                             open and examine your shipment whenever.
                                         </p>
@@ -116,29 +116,29 @@ class TermsConditions extends Component {
                                             Shipments amid the execution of the Services. The Customer's
                                             protection might have all hazard scope security against all dangers
                                             at each minute amid the travel and capacity of the Shipments. Client
-                                            in this demonstration liberates BigShip or the Service Provider or
+                                            in this demonstration liberates Shipsathi or the Service Provider or
                                             the Shipping Company from any and all duty regarding any occurrence
                                             or incident happened amid the conveyance of the Shipment from its
                                             cause point to its last goal.
                                         </p>
                                         <p>
-                                            Documentation: To provide BigShip and the Service Provider with a
+                                            Documentation: To provide Shipsathi and the Service Provider with a
                                             rundown of all the fundamental documentation required for the
                                             arrangement of the Services.
                                         </p>
                                         <p>
-                                            Relevant Duty Payment: To advise BigShip and the Service Provider on
+                                            Relevant Duty Payment: To advise Shipsathi and the Service Provider on
                                             the gathering paying the enforceable obligation, viz., either the
                                             Consignee or the Shipper. In the occasion, assuming either, the
                                             Shipper is the gathering paying the errand, or the Consignee
                                             declines to pay the assessment as informed at or post the booking
-                                            regarding the Shipment, BigShip should charge the Customer of such
+                                            regarding the Shipment, Shipsathi should charge the Customer of such
                                             extra accuses along of a headway expense (i.e., a level of the
-                                            obligation sum) and the Customer consents to pay BigShip, such duty
+                                            obligation sum) and the Customer consents to pay Shipsathi, such duty
                                             inside (7) working days from the date of raising such bills.
                                         </p>
                                         <p>
-                                            Odd Dimension or Heavy Weight Payment: To imply BigShip on Shipments
+                                            Odd Dimension or Heavy Weight Payment: To imply Shipsathi on Shipments
                                             with either peculiar measurement or heavy weight for uncommon
                                             directions on bundling and extra charges apply. Such Shipments might
                                             be picked and conveyed just on due installment of such reserving.
@@ -204,16 +204,16 @@ class TermsConditions extends Component {
                                         <h4>COD liability in snatching cases </h4>
                                         <p>
                                             In case of forcible snatching or non-payment of COD by buyer,
-                                            BigShip will not be responsible for COD remittance. Also, the seller
+                                            Shipsathi will not be responsible for COD remittance. Also, the seller
                                             must resolve buyer disputes within 24 hrs, failure of which will
-                                            lead to a hold on the COD remittance. BigShip shall not be liable
+                                            lead to a hold on the COD remittance. Shipsathi shall not be liable
                                             (in any manner) to remit the Cash-on-Delivery (COD) amount that is
                                             to be received as payment by the User, in cases of forcible
                                             snatching of the shipments/goods/delivery package.
                                         </p>
                                         <h4>Early COD Plan</h4>
                                         <ul className="list-style-3">
-                                            <li>KYC must be completed on your BigShip account.</li>
+                                            <li>KYC must be completed on your Shipsathi account.</li>
                                             <li>
                                                 For onboarded sellers, the Early COD plan will be activated only
                                                 if the wallet balance is positive.
@@ -243,7 +243,7 @@ class TermsConditions extends Component {
                                         <p>
                                             In case the shipment is packed using generic tapes &amp; flyer
                                             (Brown/Plain), the courier partners shall not take any liability for
-                                            pilferage. BigShip will not be responsible for any kind of claim
+                                            pilferage. Shipsathi will not be responsible for any kind of claim
                                             settlement for such shipments.{" "}
                                         </p>
                                         <h4>Shipped Restricted / Dangerous Good – Air &amp; Surface Mode </h4>
@@ -256,7 +256,7 @@ class TermsConditions extends Component {
                                             Courier partners shall entertain claims related to damage only if
                                             negative remarks are mentioned on the POD copy. However, if the POD
                                             copy is clean, courier partners shall not accept any claim.
-                                            Similarly, BigShip will not be entitled to any claims of the above
+                                            Similarly, Shipsathi will not be entitled to any claims of the above
                                             manner.{" "}
                                         </p>
                                         <h4>
@@ -265,9 +265,9 @@ class TermsConditions extends Component {
                                         </h4>
                                         <p>
                                             All the disputes related to Damage, Pilferage, Leakage, Non receipt
-                                            of shipment, Fake delivery etc. must be raised to BigShip within 24
+                                            of shipment, Fake delivery etc. must be raised to Shipsathi within 24
                                             hrs of delivery/delivery attempt. Any such cases raised after 24 hrs
-                                            will not be entertained by BigShip, Lost Shipment value as per
+                                            will not be entertained by Shipsathi, Lost Shipment value as per
                                             agreement will be credited to wallet.
                                         </p>
                                         <h4>Product Description &amp; Customer Details</h4>
@@ -289,23 +289,23 @@ class TermsConditions extends Component {
                                         </p>
                                         <h4>Penalty for disputed shipments/cases</h4>
                                         <p>
-                                            BigShip, in its sole discretion, shall have the right to levy
+                                            Shipsathi, in its sole discretion, shall have the right to levy
                                             penalty on the Merchant in relation to shipments /cases which have
                                             been disputed by the courier company, Merchant’s customer or by any
                                             third party (including any governmental authority/department).The
-                                            said penalty amount shall be decided by BigShip in its sole
+                                            said penalty amount shall be decided by Shipsathi in its sole
                                             discretion and may vary from case to case.{" "}
                                         </p>
                                         <h4>Order cancellation</h4>
                                         <p>
-                                            You can cancel your order from the BigShip panel if the order is in
+                                            You can cancel your order from the Shipsathi panel if the order is in
                                             any of the below statuses: AWB Assignment Pickup Scheduled - Pickup
                                             Error,{" "}
                                         </p>
                                         <p>
                                             We regret to inform you that an order cannot be cancelled if it's in
                                             the "out for pickup" status. To Know More on this Please contact
-                                            BigShip Customer Service{" "}
+                                            Shipsathi Customer Service{" "}
                                         </p>
                                         <h4>Insurance provision</h4>
                                         <h6>Carrier Risk</h6>

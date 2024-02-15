@@ -21,7 +21,7 @@ class Refund extends Component {
                         <ul className="list-style-3">
                             <li>
                                 You may cancel your account at anytime by emailing{" "}
-                                <a href="mailto:finance@bigship.in">finance@bigship.in</a>
+                                <a href="mailto:finance@shipsathi.in">finance@shipsathi.in</a>
                             </li>
                             <li>
                                 If you cancel the Service in the middle of the month, you will receive one

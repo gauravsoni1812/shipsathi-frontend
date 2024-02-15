@@ -21,15 +21,15 @@ class PrivacyPolicy extends Component {
                     }}>
                         <p>
                             Your privacy is important to us. This privacy statement provides information
-                            about the personal information that BigShip collects, and the ways in which
-                            BigShip uses that personal information. We collect, the personal basic
+                            about the personal information that Shipsathi collects, and the ways in which
+                            Shipsathi uses that personal information. We collect, the personal basic
                             Information about you including your name, email address, Contact details
                             etc.
                         </p>
                         <ul className="list-style-3">
                             <li>Information about transactions carried out over this website.</li>
                             <li>
-                                BigShip may use your personal information to for following purposes.
+                                Shipsathi may use your personal information to for following purposes.
                             </li>
                             <li>Enable your access to and use of the website services</li>
                             <li>Publish information about you on the website</li>
@@ -46,17 +46,17 @@ class PrivacyPolicy extends Component {
                         </p>
                         <h4>Penalty for disputed shipments/cases</h4>
                         <p>
-                            BigShip, in its sole discretion, shall have the right to levy penalty on the
+                            Shipsathi, in its sole discretion, shall have the right to levy penalty on the
                             Merchant in relation to shipments /cases which have been disputed by the
                             courier company, Merchant’s customer or by any third party (including any
                             governmental authority/department).The said penalty amount shall be decided
-                            by BigShip in its sole discretion and may vary from case to case.{" "}
+                            by Shipsathi in its sole discretion and may vary from case to case.{" "}
                         </p>
                         <h4>Securing your data</h4>
                         <p>
                             Securing your data is our responsibility. We will take reasonable technical
                             and organizational precautions to prevent the loss, misuse or alteration of
-                            your personal information. BigShip will store all the personal information
+                            your personal information. Shipsathi will store all the personal information
                             you provide on its secure servers. Information relating to electronic
                             transactions entered into via this website will be protected by encryption
                             technology.{" "}
