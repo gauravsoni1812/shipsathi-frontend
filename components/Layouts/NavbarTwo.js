@@ -243,7 +243,7 @@ class NavbarTwo extends Component {
 
                                                 <li className="nav-item">
                                                     <Link href="/signup" activeClassName="active">
-                                                        <a className="nav-link">Sign Up</a>
+                                                        <a className="nav-link">Sign Up </a>
                                                     </Link>
                                                 </li>
  

@@ -24,7 +24,7 @@ class Login extends Component {
                                         </div>
 
                                         <h3>Welcome back</h3>
-                                        <p>New to Ship Sathi? <Link href="/signup"><a>Sign up</a></Link></p>
+                                        <p>New to Ship Sathi? <Link href="/signup"><a>Sign up </a></Link></p>
 
                                         <form>
                                             <div className="form-group">

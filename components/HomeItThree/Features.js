@@ -18,7 +18,7 @@ class Features extends Component {
                                         <i className='bx bxs-badge-check'></i>
                                     </div>
                                     <h3>Create Shipment</h3>
-                                    <p>Upload your orders in bulk, connect your online store, integrate our API, or just manually create a new shipment on Rocketbox.</p>
+                                    <p>Upload your orders in bulk, connect your online store, integrate our API, or just manually create a new shipment on ShipSathi.</p>
                                 </div>
                             </ScrollAnimation>
                         </div>

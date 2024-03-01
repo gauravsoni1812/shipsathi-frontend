@@ -246,7 +246,7 @@ class Serviceablity extends Component {
                                         }}
                                     >
                                         <div className="priceForm">
-                                            {console.log(this.state.showDetailsForm)}
+                                            {/* {console.log(this.state.showDetailsForm)} */}
                                             {!this.state.showDetailsForm ? (
                                                 <div className="row">
                                                     <div className="col-lg-4 formcontrol mt-15">

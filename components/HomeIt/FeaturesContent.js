@@ -11,65 +11,47 @@ class FeaturesContent extends Component {
                     </div>
 
                     <div className="row">
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-3">
                             <ScrollAnimation animateIn="fadeInLeft" delay={50} animateOnce={true}>
                                 <div className="features-box-one">
                                     <i className='bx bx-conversation bg-13c4a1'></i>
                                     <h3>Create Shipment</h3>
-                                    <p>Upload your orders in bulk, connect your online store, integrate our API, or just manually create a new shipment on Rocketbox.</p>
+                                    <p>Upload your orders in bulk, connect your online store, integrate our API, or just manually create new shipment</p>
                                 </div>
                             </ScrollAnimation>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-3">
                             <ScrollAnimation animateIn="fadeInLeft" delay={100} animateOnce={true}>
                                 <div className="features-box-one">
                                     <i className='bx bxs-badge-check bg-6610f2'></i>
-                                    <h3>Choose a courier partner</h3>
-                                    <p>Shipsathi suggests carriers based on your order, weight, and budget. You can follow our recommendation or select your preferred partner based on rates, performance, and ratings.</p>
+                                    <h3>Choose partner</h3>
+                                    <p>Shipsathi suggests carriers based on your order, weight, and budget. You can follow our recommendation </p>
                                 </div>
                             </ScrollAnimation>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-3">
                             <ScrollAnimation animateIn="fadeInLeft" delay={150} animateOnce={true}>
                                 <div className="features-box-one">
                                     <i className='bx bxs-dashboard bg-ffb700'></i>
                                     <h3>Prepare Shipment</h3>
-                                    <p>Download and print out the shipment label and wait for the pickup. You can also manage invoices, Proof of Delivery (POD), and Non-delivery report (NDR) with Rocketbox.</p>
+                                    <p>Download and print out the shipment label and wait for the pickup. You can also manage invoices, Proof of Delivery (POD)</p>
                                 </div>
                             </ScrollAnimation>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-3">
                             <ScrollAnimation animateIn="fadeInLeft" delay={200} animateOnce={true}>
                                 <div className="features-box-one">
                                     <i className='bx bxs-bell-ring bg-fc3549'></i>
                                     <h3>Analyse</h3>
-                                    <p>Track orders, notify customers, and analyze your shipping data in the most effective way possible to optimize your delivery KPIs.</p>
+                                    <p>Track orders, notify customers, and analyze your shipping data in the most effective way possible.</p>
                                 </div>
                             </ScrollAnimation>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
-                            <ScrollAnimation animateIn="fadeInLeft" delay={250} animateOnce={true}>
-                                <div className="features-box-one">
-                                    <i className='bx bxs-info-circle bg-00d280'></i>
-                                    <h3>Information Retrieval</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
-                                </div>
-                            </ScrollAnimation>
-                        </div>
-
-                        <div className="col-lg-4 col-md-6">
-                            <ScrollAnimation animateIn="fadeInLeft" delay={300} animateOnce={true}>
-                                <div className="features-box-one">
-                                    <i className='bx bx-cog bg-ff612f'></i>
-                                    <h3>Flexible Functionality</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna.</p>
-                                </div>
-                            </ScrollAnimation>
-                        </div>
+                     
                     </div>
                 </div>
             </section>

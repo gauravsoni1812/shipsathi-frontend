@@ -43,9 +43,7 @@ class NavbarTwo extends Component {
                             <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/">
                                     <a className="navbar-brand">
-                                        <img src="/images/NEWLOGO1.svg" className="hidden md:block" alt="logo" style={{
-                                            width:"250px"
-                                        }} />
+                                        <img src="/images/NEWLOGO1.svg" className="hidden md:block" height={100}  style={{ maxWidth: "250px", width: "50vw" }} alt="logo" />
                                     </a>
                                 </Link>
 
@@ -122,7 +120,7 @@ class NavbarTwo extends Component {
                                 <div className="others-options">
                                     <Link href="https://shipsathi-dashboard.vercel.app/signup">
                                         <a className="default-btn mr-3">
-                                        <i className="bx bx-log-in"></i> Sign Up <span></span> 
+                                        <i className="bx bx-log-in"></i> Sign Up  <span></span> 
                                         </a>
                                     </Link>
                                     <Link href="https://shipsathi-dashboard.vercel.app/signin">

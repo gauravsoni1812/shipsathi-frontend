@@ -37,7 +37,7 @@ class Signup extends Component {
 
                                             <button type="submit" className="default-btn">
                                                 <i className="bx bx-log-in"></i>
-                                                Sign Up
+                                                Sign Up 
                                                 <span></span>
                                             </button>
 

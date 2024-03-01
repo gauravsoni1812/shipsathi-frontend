@@ -43,8 +43,8 @@ class Navbar extends Component {
                             <nav className="navbar navbar-expand-md navbar-light">
                                 <Link href="/">
                                     <a className="navbar-brand">
-                                        <img src="/images/logo-cropped.svg" className="hidden md:block" alt="logo" style={{
-                                            height:"50px", width:"150px"
+                                        <img  src="/images/logo-cropped.svg" className="hidden md:block" alt="logo" style={{
+                                            height:"50px", width:"50px"
                                         }} />
                                     </a>
                                 </Link>
@@ -75,7 +75,7 @@ class Navbar extends Component {
                                             <ul className="dropdown-menu mega-dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/domestic-shipping" activeClassName="active">
-                                                        <a className="nav-link">domestic shopping </a>
+                                                        <a className="nav-link">domestic shipping </a>
                                                     </Link>
                                            
                                                     <Link href="/index-chatbot" activeClassName="active">
@@ -219,7 +219,7 @@ class Navbar extends Component {
                                     </Link>
                                     <Link href="/contact">
                                         <a className="default-btn">
-                                           Sign up <span></span>
+                                           Sign up<span></span>
                                         </a>
                                     </Link>
                                 </div>
